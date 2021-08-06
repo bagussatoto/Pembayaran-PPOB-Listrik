@@ -12,9 +12,9 @@ Fitur Fitur
   * LogOut
   * Dan Lainnya
   
- # ------------------------------------------------------
+------------------------------------------------------
  
-  UserName  : Manager
-  Password  : 123
+  * UserName  : Manager
+  * Password  : 123
  
  
